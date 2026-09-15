@@ -11,7 +11,7 @@ public class MosaicoDoCastelo {
 
         if (n < 3 || n > 30) {
 
-            System.out.println("Dimensao invalida! Use um valor entre 3 e 20.");
+            System.out.println("Dimensao invalida! Use um valor entre 3 e 30.");
             entrada.close();
             return;
         }
